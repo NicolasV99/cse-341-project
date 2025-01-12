@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NicolasV99/cse-341-project/issues"
   },
-  "homepage": "https://github.com/NicolasV99/cse-341-project#readme"
+  "homepage": "https://github.com/NicolasV99/cse-341-project#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
